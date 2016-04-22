@@ -2,7 +2,10 @@ LIST OF MEMBERS FOR TEAM 100
  
 MEMBER 1 Maitham Anjab Al Lawati
  
-MEMBER 2 Nick Argento 
- 
-MEMBER 3 Cohan Arthur Bayles
 
+
+=======
+MEMBER 2 Nick Argento
+ 
+MEMBER 3 Cohan Bayles
+>>>>>>> parent of 70fd345... Changed name order to last, first
